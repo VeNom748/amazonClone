@@ -1,3 +1,5 @@
+![image](https://github.com/VeNom748/amazonClone/assets/65562631/25f144ad-2655-4434-ba5f-60536f801859)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
